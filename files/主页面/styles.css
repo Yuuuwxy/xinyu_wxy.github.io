@@ -4982,17 +4982,18 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:42px;
-  height:21px;
+  width:33px;
+  height:24px;
 }
 #u149 {
   border-width:0px;
   position:absolute;
-  left:650px;
-  top:538px;
-  width:42px;
-  height:21px;
+  left:13px;
+  top:523px;
+  width:33px;
+  height:24px;
   display:flex;
+  opacity:0.62;
 }
 #u149 .text {
   position:absolute;
@@ -5012,17 +5013,18 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:42px;
-  height:21px;
+  width:33px;
+  height:24px;
 }
 #u150 {
   border-width:0px;
   position:absolute;
-  left:45px;
-  top:538px;
-  width:42px;
-  height:21px;
+  left:655px;
+  top:523px;
+  width:33px;
+  height:24px;
   display:flex;
+  opacity:0.62;
 }
 #u150 .text {
   position:absolute;
@@ -5040,20 +5042,20 @@
 #u151 {
   border-width:0px;
   position:absolute;
-  left:34px;
-  top:520px;
-  width:71px;
-  height:59px;
+  left:13px;
+  top:511px;
+  width:46px;
+  height:48px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
 #u152 {
   border-width:0px;
   position:absolute;
-  left:633px;
-  top:520px;
-  width:66px;
-  height:59px;
+  left:647px;
+  top:502px;
+  width:51px;
+  height:56px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
@@ -5070,16 +5072,16 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:28px;
-  height:28px;
+  width:15px;
+  height:15px;
 }
 #u154 {
   border-width:0px;
   position:absolute;
   left:664px;
   top:15px;
-  width:28px;
-  height:28px;
+  width:15px;
+  height:15px;
   display:flex;
 }
 #u154 .text {
@@ -5099,9 +5101,9 @@
   border-width:0px;
   position:absolute;
   left:652px;
-  top:4px;
-  width:53px;
-  height:50px;
+  top:9px;
+  width:47px;
+  height:35px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
@@ -5485,16 +5487,16 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:28px;
-  height:28px;
+  width:15px;
+  height:15px;
 }
 #u175 {
   border-width:0px;
   position:absolute;
   left:687px;
   top:15px;
-  width:28px;
-  height:28px;
+  width:15px;
+  height:15px;
   display:flex;
 }
 #u175 .text {
@@ -5514,9 +5516,9 @@
   border-width:0px;
   position:absolute;
   left:675px;
-  top:4px;
-  width:53px;
-  height:50px;
+  top:9px;
+  width:47px;
+  height:35px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
